@@ -1,0 +1,63 @@
+/* Optimize colors for specific elements */
+
+body.dark-mode {
+    background-color: #333; /* Dark gray background */
+/* White text color */
+  }
+  body.dark-mode .sfbg,.slim_appbar{
+    background-color: #333; /* Dark gray background */
+/* White text color */
+  }
+
+  body.dark-mode div.g.Ww4FFb.vt6azd.tF2Cxc.asEBEc{
+    background-color: #333;
+    color: #5e5353;
+  }
+  body.dark-mode div.SDkEP{
+    color: #fafafa;
+  }
+
+  body.dark-mode div.RNNXgb{
+    background-color: #333;
+    border: 2px solid rgb(0, 255, 213);
+    z-index: 1;
+  }
+  body.dark-mode textarea.gLFyf{
+    color: #fafafa;
+    border: #66cdaa;
+  }
+  body.dark-mode div.a4blc{
+    border: #131111;
+  }
+  body.dark-mode div.GKS7s{
+    background-color: #333;
+    color: #fafafa;
+  }
+  body.dark-mode span,.FMKtTb.UqcIvb{
+    color: #fafafa;
+  }
+  body.dark-mode span:hover{
+    color: #b9acac;
+  }
+  body.dark-mode p{
+    color: #fafafa;
+  }
+  /* Customize header styles */
+  body.dark-mode header {
+    background-color: #222; /* Darker background for headers */
+    color: #fafafa; /* White text color for headers */
+  }
+  
+  /* Customize link styles */
+  body.dark-mode a,cite {
+    color: #66cdaa; /* Lighter green color for links */
+  }
+  
+  /* Customize button styles */
+  body.dark-mode button,button.Tg7LZd{ 
+    color: #333;
+  }
+  body.dark-mode textarea{
+    background-color: #333;
+    color: #fafafa;
+  }
