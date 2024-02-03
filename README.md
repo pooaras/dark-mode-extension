@@ -14,7 +14,7 @@ To test and run this extension, follow the steps.
 6) Note that for every change, you have to reload the extension.
  
 
-<a href="">click here to install add-on</a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/dark-mode-extension/">click here to install add-on</a>
 Note: It needs CSS changes. still in development.
   <img src="Screenshot from 2024-02-03 11-49-08.png" alt="">
     <img src="Screenshot from 2024-02-03 11-49-23.png" alt="">
